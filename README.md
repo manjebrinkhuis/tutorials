@@ -1,2 +1,2 @@
-# tutorials
-Installing and setting up various things.
+# Tutorials
+Bite-size tutorials about setting up your pc for science.
